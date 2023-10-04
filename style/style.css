@@ -1,0 +1,15 @@
+p {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+button {
+  display: flex;
+  flex-direction: row;
+}
+
+#color1 {
+  color: white;
+  background-color: red;
+}/*# sourceMappingURL=style.css.map */
